@@ -16,7 +16,7 @@ To use, create the packages directory if needed:
 
 and then clone this repository into `packages/mongo-livedata`:
 
-    $ git clone https://github.com/awwx/meteor-expose-mongo-result.git packages/mongo-livedata
+    $ git clone https://github.com/awwx/meteor-expose-mongo-result.git -b for-0.6.5.1 packages/mongo-livedata
 
 This will override the standard Meteor mongo-livedata package with
 this one.
